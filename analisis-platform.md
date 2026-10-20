@@ -41,6 +41,8 @@
 
 # ANALISIS PERBANDINGAN PLATFORM
 
+# A. Tabel Perbandingan
+
 | Aspek | Web | Desktop | Mobile |
 |---|---|---|---|
 | Bahasa Utama | HTML, CSS, JavaScript | C++, C#, Java, Python | Kotlin, Java, Swift, Dart |
@@ -50,7 +52,7 @@
 | Keterbatasan | Dapat bergantung pada koneksi internet dan memiliki keterbatasan akses terhadap fitur perangkat. | Memerlukan instalasi dan dapat bergantung pada sistem operasi tertentu. | Ukuran layar terbatas, penggunaan baterai, dan kompatibilitas perangkat. |
 | Contoh Aplikasi | Gmail, Google Docs | Microsoft Word, Adobe Photoshop | WhatsApp, Google Maps |
 
-## Penjelasan Singkat
+# B. Penjelasan Singkat
 
 **1. Web**
 
