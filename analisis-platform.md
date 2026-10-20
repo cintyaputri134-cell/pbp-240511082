@@ -66,6 +66,14 @@ Platform Desktop merupakan aplikasi yang dipasang dan dijalankan pada komputer a
 
 Platform Mobile merupakan aplikasi yang dirancang untuk smartphone atau tablet. Platform ini mendukung interaksi layar sentuh dan dapat memanfaatkan fitur perangkat, seperti kamera, GPS, serta notifikasi.
 
+# C. Rerefrensi
+
+1. AnakBlogger. (2024). *Perbedaan Aplikasi Mobile, Web dan Desktop Secara Spesifik*. https://www.anakblogger.com/2024/06/perbedaan-aplikasi-mobile-web-dan.html
+
+2. Softices. *Desktop vs Web vs Mobile Apps: What to Build for Your Business?* https://softices.com/blogs/desktop-vs-web-vs-mobile-apps-comparison
+
+3. Amazon Web Services (AWS). *Apa Perbedaan Antara Aplikasi Web, Aplikasi Native, dan Aplikasi Hibrida?* https://aws.amazon.com/id/compare/the-difference-between-web-apps-native-apps-and-hybrid-apps/
+
 ---
 
 # REFLEKSI
@@ -78,10 +86,4 @@ Selain itu, saya juga memahami pentingnya menyiapkan lingkungan pengembangan seb
 
 ---
 
-# REFERENSI
 
-1. AnakBlogger. (2024). *Perbedaan Aplikasi Mobile, Web dan Desktop Secara Spesifik*. https://www.anakblogger.com/2024/06/perbedaan-aplikasi-mobile-web-dan.html
-
-2. Softices. *Desktop vs Web vs Mobile Apps: What to Build for Your Business?* https://softices.com/blogs/desktop-vs-web-vs-mobile-apps-comparison
-
-3. Amazon Web Services (AWS). *Apa Perbedaan Antara Aplikasi Web, Aplikasi Native, dan Aplikasi Hibrida?* https://aws.amazon.com/id/compare/the-difference-between-web-apps-native-apps-and-hybrid-apps/
